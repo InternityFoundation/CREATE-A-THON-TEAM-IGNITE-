@@ -8,3 +8,6 @@ a complete health care app
 4 Computer Vision to calculate body fat percentage5 
 5 A map to show the air quality near you and your surrounding area webview.
 6 Posture Detection.
+
+presentation and app screenshots :
+https://github.com/InternityFoundation/CREATE-A-THON-TEAM-IGNITE-/blob/master/SWASTHYA.pptx
